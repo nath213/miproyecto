@@ -1,0 +1,20 @@
+.encabezado{
+    background-color: aqua;
+    height: 70px;
+    width: auto;
+}
+.cuerpo{
+    background-color: blueviolet;
+    height: 600px;
+    width: auto;
+}
+.pie{
+    background-color: brown;
+    height: 100px;
+    width: auto;
+}
+.grid{
+    background-color: black;
+    height: 600px;
+    width: 50px;
+}

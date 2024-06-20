@@ -1,0 +1,26 @@
+.imagen{
+    width: 200px; 
+    height: 200px;
+}
+.lista{
+    background-color: aqua; 
+    width: 300px; 
+    height: 110px;
+    border-radius: 20px;
+    margin: 0px;
+}
+.e{
+    background-color: rgb(148, 91, 170);
+}
+.encabezado{
+    background-color: cadetblue;
+    height: auto;
+    width: auto;
+    border-radius: 30px;
+}
+.tab{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
